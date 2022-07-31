@@ -1,2 +1,1 @@
-# c-questions
-c++ by ineorun
+#C++ questions
